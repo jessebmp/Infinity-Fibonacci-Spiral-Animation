@@ -1,0 +1,11 @@
+// Array to hold image URLs
+let imageUrls = [
+  'https://i.ibb.co/PG99NHq/20240529-194318.jpg', // Replace with your image URLs
+  'https://i.ibb.co/3hZ2XHr/20240529-195123.jpg',
+  'https://i.ibb.co/HrBw1z1/20240604-210001.jpg',
+  'https://i.ibb.co/xs1QrTY/20240605-170900.jpg',
+  'https://i.ibb.co/3dhrqjK/20240605-171057.jpg', 
+  'https://i.ibb.co/VJrwngp/20240605-182809.jpg',
+  'https://i.ibb.co/92hx1gR/20240605-182834.jpg',
+  'https://i.ibb.co/VHgsB6m/20240605-182944.jpg'
+];
